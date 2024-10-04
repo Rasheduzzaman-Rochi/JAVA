@@ -14,7 +14,6 @@ public class InputScanner {
             System.out.print("Enter the Line: ");
             x = sc.nextLine();
             System.out.print("Your Entered Line: " + x);
-            sc.close();
         }
     }
 }
