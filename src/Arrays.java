@@ -16,7 +16,5 @@ public class arrays {
 
         Arrays.sort(marks);
         System.out.println(marks[0]);
-
     }
 }
-
